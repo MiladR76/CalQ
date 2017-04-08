@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>NumberButton.qml</file>
+        <file>NumPad.qml</file>
+        <file>MainWindow.qml</file>
+        <file>MainPage.qml</file>
+        <file>Button.qml</file>
+        <file>OptionsPage.qml</file>
+        <file>CalQ.png</file>
+        <file>SpecialNumButton.qml</file>
+        <file>SpecialNumPad.qml</file>
+        <file>Style.qml</file>
+        <file>qmldir</file>
+    </qresource>
+</RCC>
