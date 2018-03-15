@@ -1,4 +1,5 @@
 #CalQ
+![alt text](CalQ.png)
 
 ## Introduction
 This is a simple calculator that I wrote when I first started with Qt and QML. it calculates the answer using javascipt's eval function and it has some predefined themes that you can enjoy
