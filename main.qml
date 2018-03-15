@@ -1,7 +1,7 @@
-import QtQuick 2.3
-import QtQuick.Controls 1.2
+import QtQuick 2.0
+import QtQuick.Window 2.0
 
-ApplicationWindow {
+Window {
     visible: true
     width: 400
     height: 600
