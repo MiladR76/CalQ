@@ -18,7 +18,4 @@ https://github.com/ShahriarSS/CalQ/releases
 This project is licensed under the GPL_V3 License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Preview
-![alt text](preview1.png)
-![alt text](preview2.png)
 ![alt text](preview3.png)
-![alt text](preview4.png)
